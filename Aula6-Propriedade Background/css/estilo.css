@@ -1,0 +1,27 @@
+body {
+    background: rgb(222, 218, 218);
+}
+
+.vermelho {
+    color: red;
+}
+
+.center {
+    text-align: center;
+}
+
+.fonte-30 {
+    font-size:  30px;
+}
+
+#teste {
+    color: blue;
+    background: yellow;
+}
+
+.exemplo-back {
+    height: 300px;
+    background-color: gray;
+    background: gray url("../img/fundo.jpg") no-repeat center;
+    background-size: cover;
+}
