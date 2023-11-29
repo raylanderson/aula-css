@@ -1,0 +1,8 @@
+#gradiente {
+    width: 100%;
+    height: 300px;
+  /*  background-image: linear-gradient(45deg, red, orange, yellow, green, blue, indigo, violet);*/
+    background-image: radial-gradient(red, orange, yellow, green, blue, indigo, violet);
+
+}
+
